@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Gustavo Echeverry</h1>
-<h3 align="center">Un estudiante frontend developer de colombia</h3>
+<h3 align="center">Estudiante frontend developer de colombia</h3>
 
 - 📫 Cómo contactarme **echeverryg039@gmail.com**
 
